@@ -26,3 +26,7 @@ This add-on provides a way to create music visualizers using .wav files and disp
 ## User guide (Only in spanish)
 [User Guide [ES]](https://github.com/lucaspferry/audio-displacement-visualizer/blob/main/guia_de_usuario_es.pdf)
 
+## Installer .zip
+[Installation .zip](https://github.com/lucaspferry/audio-displacement-visualizer/blob/main/add-on/audio_displacement_visualizer.zip)
+
+
